@@ -1,0 +1,15 @@
+name: kaggle-predict-future-sales
+channels:
+  - conda-forge
+  - plotly
+dependencies:
+  - kaggle
+  - notebook
+  - plotly
+  - pandas
+  - scikit-learn
+  - black
+  - pytest
+  - pendulum
+  - jupytext
+prefix: /home/nilo/miniconda3/envs/kaggle-predict-future-sales
